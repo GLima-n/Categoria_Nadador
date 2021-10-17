@@ -2,6 +2,7 @@
  Programa classifica ao ler idade do nadador!
 
 Elabore um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
+
 Infantil A = [5;7] anos
 
 Infantil B = [8;10] anos
